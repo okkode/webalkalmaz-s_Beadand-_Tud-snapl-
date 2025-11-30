@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "FullRun",
+    "Projects": [
+      {
+        "Path": "GdeWeb\\GdeWeb.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GdeWebAPI\\GdeWebAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
